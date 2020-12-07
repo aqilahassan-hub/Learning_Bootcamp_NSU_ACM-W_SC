@@ -1,0 +1,67 @@
+
+.h1{
+    padding-left: 2%;
+    font-family: "Roboto",sans-serif;
+
+}
+
+div .navbar{
+    width: 100%;
+     height: 40px;
+     border:5px solid #15B1CD;
+     
+     
+}
+div .navbar .table{
+    padding: 1%; 
+    padding-left: 20px;  
+    width: 100%;
+    
+}
+
+
+.pic{
+    
+    display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 28%;
+}
+
+div .h3{
+    padding-left: 1%;
+    border:5px solid #15B1CD;
+}
+.body{    
+    background: #2C3435;   
+    color: #fff;
+    height:100%;   
+}
+
+.body a{
+    position:relative;
+    color: #fff;
+    display:block;
+    width: 100%;
+    line-height:30px;
+    text-decoration:none;
+    padding-left:20px;
+    box-sizing:border-box;
+    transition:0.5s;
+    transition-property:#2C3435;
+}
+.body a:hover{
+    background:#15B1CD;
+    
+}
+.footer{
+    
+    text-align: center
+}
+.degree{
+
+text-align: center; 
+width: 95%; 
+margin: auto;
+}
+
